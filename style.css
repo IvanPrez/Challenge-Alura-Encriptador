@@ -35,7 +35,7 @@ main{
     width: 400px;
     top: 20px;
     left: 600px;
-    background-image: url(/muneco.png);
+    background-image: url(muneco.png);
     background-repeat: no-repeat;
     border-radius: 32px;
     color: #0A3871;
